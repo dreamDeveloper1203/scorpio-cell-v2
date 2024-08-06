@@ -1,0 +1,10 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "Scorpio Cell",
+            "database": "${workspaceFolder:bin}/database/database.sqlite"
+        }
+    ]
+}
